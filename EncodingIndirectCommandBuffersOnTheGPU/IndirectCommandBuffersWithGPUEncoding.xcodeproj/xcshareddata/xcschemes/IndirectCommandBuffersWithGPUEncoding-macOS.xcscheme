@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Scheme LastUpgradeVersion="1010" version="1.3">
+	<AnalyzeAction buildConfiguration="Debug" />
+	<ArchiveAction buildConfiguration="Release" revealArchiveInOrganizer="YES" />
+	<TestAction selectedDebuggerIdentifier="Xcode.DebuggerFoundation.Debugger.LLDB" buildConfiguration="Debug" shouldUseLaunchSchemeArgsEnv="YES" selectedLauncherIdentifier="Xcode.DebuggerFoundation.Launcher.LLDB" codeCoverageEnabled="NO">
+		<Testables />
+		<MacroExpansion>
+			<BuildableReference BuildableName="IndirectCommandBuffersWithGPUEncoding.app" ReferencedContainer="container:IndirectCommandBuffersWithGPUEncoding.xcodeproj" BlueprintIdentifier="720AC47720B8EC1900098002" BlueprintName="IndirectCommandBuffersWithGPUEncoding-macOS" BuildableIdentifier="primary" />
+		</MacroExpansion>
+	</TestAction>
+	<ProfileAction shouldUseLaunchSchemeArgsEnv="YES" savedToolIdentifier="" useCustomWorkingDirectory="NO" buildConfiguration="Release" debugDocumentVersioning="YES">
+		<BuildableProductRunnable runnableDebuggingMode="0">
+			<BuildableReference BlueprintName="IndirectCommandBuffersWithGPUEncoding-macOS" BuildableIdentifier="primary" BuildableName="IndirectCommandBuffersWithGPUEncoding.app" BlueprintIdentifier="720AC47720B8EC1900098002" ReferencedContainer="container:IndirectCommandBuffersWithGPUEncoding.xcodeproj" />
+		</BuildableProductRunnable>
+	</ProfileAction>
+	<BuildAction buildImplicitDependencies="YES" parallelizeBuildables="YES">
+		<BuildActionEntries>
+			<BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES">
+				<BuildableReference BlueprintIdentifier="720AC47720B8EC1900098002" BuildableName="IndirectCommandBuffersWithGPUEncoding.app" ReferencedContainer="container:IndirectCommandBuffersWithGPUEncoding.xcodeproj" BuildableIdentifier="primary" BlueprintName="IndirectCommandBuffersWithGPUEncoding-macOS" />
+			</BuildActionEntry>
+		</BuildActionEntries>
+	</BuildAction>
+	<LaunchAction buildConfiguration="Debug" allowLocationSimulation="YES" ignoresPersistentStateOnLaunch="NO" useCustomWorkingDirectory="NO" debugDocumentVersioning="YES" selectedDebuggerIdentifier="Xcode.DebuggerFoundation.Debugger.LLDB" debugServiceExtension="internal" selectedLauncherIdentifier="Xcode.DebuggerFoundation.Launcher.LLDB" launchStyle="0">
+		<BuildableProductRunnable runnableDebuggingMode="0">
+			<BuildableReference BuildableName="IndirectCommandBuffersWithGPUEncoding.app" BlueprintName="IndirectCommandBuffersWithGPUEncoding-macOS" ReferencedContainer="container:IndirectCommandBuffersWithGPUEncoding.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="720AC47720B8EC1900098002" />
+		</BuildableProductRunnable>
+	</LaunchAction>
+</Scheme>

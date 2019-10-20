@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Scheme LastUpgradeVersion="1100" version="1.3">
+	<AnalyzeAction buildConfiguration="Debug" />
+	<ArchiveAction revealArchiveInOrganizer="YES" buildConfiguration="Release" />
+	<TestAction shouldUseLaunchSchemeArgsEnv="YES" selectedDebuggerIdentifier="Xcode.DebuggerFoundation.Debugger.LLDB" codeCoverageEnabled="NO" selectedLauncherIdentifier="Xcode.DebuggerFoundation.Launcher.LLDB" buildConfiguration="Debug">
+		<Testables />
+	</TestAction>
+	<ProfileAction useCustomWorkingDirectory="NO" debugDocumentVersioning="YES" savedToolIdentifier="" buildConfiguration="Release" shouldUseLaunchSchemeArgsEnv="YES">
+		<BuildableProductRunnable runnableDebuggingMode="0">
+			<BuildableReference BuildableIdentifier="primary" BuildableName="GPUArgumentBufferEncoding.app" BlueprintName="GPUArgumentBufferEncoding-macOS" BlueprintIdentifier="3ADBA3401ED2973600AC86A3" ReferencedContainer="container:GPUArgumentBufferEncoding.xcodeproj" />
+		</BuildableProductRunnable>
+	</ProfileAction>
+	<BuildAction parallelizeBuildables="YES" buildImplicitDependencies="YES">
+		<BuildActionEntries>
+			<BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForArchiving="YES">
+				<BuildableReference BlueprintIdentifier="3ADBA3401ED2973600AC86A3" BuildableName="GPUArgumentBufferEncoding.app" BlueprintName="GPUArgumentBufferEncoding-macOS" ReferencedContainer="container:GPUArgumentBufferEncoding.xcodeproj" BuildableIdentifier="primary" />
+			</BuildActionEntry>
+		</BuildActionEntries>
+	</BuildAction>
+	<LaunchAction allowLocationSimulation="YES" launchStyle="0" selectedDebuggerIdentifier="Xcode.DebuggerFoundation.Debugger.LLDB" buildConfiguration="Release" selectedLauncherIdentifier="Xcode.DebuggerFoundation.Launcher.LLDB" ignoresPersistentStateOnLaunch="NO" useCustomWorkingDirectory="NO" debugDocumentVersioning="YES" debugServiceExtension="internal">
+		<BuildableProductRunnable runnableDebuggingMode="0">
+			<BuildableReference BuildableName="GPUArgumentBufferEncoding.app" BuildableIdentifier="primary" BlueprintIdentifier="3ADBA3401ED2973600AC86A3" BlueprintName="GPUArgumentBufferEncoding-macOS" ReferencedContainer="container:GPUArgumentBufferEncoding.xcodeproj" />
+		</BuildableProductRunnable>
+	</LaunchAction>
+</Scheme>

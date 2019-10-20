@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Scheme LastUpgradeVersion="1100" version="1.3">
+	<AnalyzeAction buildConfiguration="Debug" />
+	<ArchiveAction buildConfiguration="Release" revealArchiveInOrganizer="YES" />
+	<TestAction selectedDebuggerIdentifier="Xcode.DebuggerFoundation.Debugger.LLDB" shouldUseLaunchSchemeArgsEnv="YES" selectedLauncherIdentifier="Xcode.DebuggerFoundation.Launcher.LLDB" buildConfiguration="Debug" codeCoverageEnabled="NO">
+		<Testables />
+	</TestAction>
+	<ProfileAction savedToolIdentifier="" shouldUseLaunchSchemeArgsEnv="YES" debugDocumentVersioning="YES" buildConfiguration="Release" useCustomWorkingDirectory="NO">
+		<BuildableProductRunnable runnableDebuggingMode="0">
+			<BuildableReference BuildableName="MetalSimSample.app" BlueprintName="MetalSimSample tvOS" BuildableIdentifier="primary" ReferencedContainer="container:MetalSimSample.xcodeproj" BlueprintIdentifier="D6BF07912277A1E3009ACE82" />
+		</BuildableProductRunnable>
+	</ProfileAction>
+	<BuildAction buildImplicitDependencies="YES" parallelizeBuildables="YES">
+		<BuildActionEntries>
+			<BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES">
+				<BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:MetalSimSample.xcodeproj" BuildableName="MetalSimSample.app" BlueprintName="MetalSimSample tvOS" BlueprintIdentifier="D6BF07912277A1E3009ACE82" />
+			</BuildActionEntry>
+		</BuildActionEntries>
+	</BuildAction>
+	<LaunchAction buildConfiguration="Debug" debugServiceExtension="internal" debugDocumentVersioning="YES" allowLocationSimulation="YES" selectedLauncherIdentifier="Xcode.DebuggerFoundation.Launcher.LLDB" useCustomWorkingDirectory="NO" selectedDebuggerIdentifier="Xcode.DebuggerFoundation.Debugger.LLDB" ignoresPersistentStateOnLaunch="NO" launchStyle="0">
+		<BuildableProductRunnable runnableDebuggingMode="0">
+			<BuildableReference ReferencedContainer="container:MetalSimSample.xcodeproj" BlueprintName="MetalSimSample tvOS" BuildableName="MetalSimSample.app" BuildableIdentifier="primary" BlueprintIdentifier="D6BF07912277A1E3009ACE82" />
+		</BuildableProductRunnable>
+	</LaunchAction>
+</Scheme>
